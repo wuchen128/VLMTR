@@ -1,0 +1,11 @@
+# PyInstaller output (the exe is published via Releases, not committed)
+build/
+dist/
+__pycache__/
+*.pyc
+
+# Local virtual environment (install dependencies as described in README)
+.venv/
+
+# Tooling data
+.workbuddy-ai/
